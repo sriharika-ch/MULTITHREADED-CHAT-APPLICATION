@@ -17,6 +17,8 @@ OUTPUT :
 
 <img width="824" height="163" alt="Image" src="https://github.com/user-attachments/assets/314dd43c-3e37-4002-9a47-c3c626afd2ea" />
 
+<img width="712" height="134" alt="Image" src="https://github.com/user-attachments/assets/c80c56c5-0e61-4222-bce6-7913aaff7a9a" />
+
 This is a REST API Client, which required building a Java application that interacts with a public REST API, fetches data, and displays it in a structured format. This helped me understand the core concepts of web APIs, HTTP communication, and JSON data handling, which are essential skills for any backend or full-stack developer.
 
 Real-World Applications of REST API Clients:
