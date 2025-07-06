@@ -12,6 +12,10 @@ DURATION : 6 WEEKS
 
 MENTOR : NEELA SANTHOSH
 
+OUTPUT : 
+
+
+<img width="824" height="163" alt="Image" src="https://github.com/user-attachments/assets/314dd43c-3e37-4002-9a47-c3c626afd2ea" />
 
 This is a REST API Client, which required building a Java application that interacts with a public REST API, fetches data, and displays it in a structured format. This helped me understand the core concepts of web APIs, HTTP communication, and JSON data handling, which are essential skills for any backend or full-stack developer.
 
@@ -41,3 +45,4 @@ This task significantly boosted my confidence in working with APIs and understan
 5.How modern applications pull live data from external sources
 
 This is an eye-opener into the world of APIs and backend communication. REST APIs make applications dynamic, connected, and real-time. By completing this, I built a solid foundation in integrating web services into Java applications — a skill in high demand in the software development industry. It prepared me to work on more complex systems such as user authentication, cloud services, and microservices in the future.
+ 
